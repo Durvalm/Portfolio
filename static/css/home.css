@@ -1,0 +1,15 @@
+
+.header {
+    background-color:#0a192f;
+    color: #e8f1ff;
+    /* font-family: 'Fredoka One', serif; */
+    font-family: 'Frank Ruhl Libre', serif;
+}
+
+.text {
+    font-weight: bold;
+}
+
+.projects {
+    color: white;
+}

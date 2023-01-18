@@ -1,0 +1,12 @@
+{% extends "base.html" %}
+{% load static %}
+{% block content %}
+<!-- link to  css -->
+<link rel="stylesheet" href="{% static 'css/home.css' %}">
+
+{% include 'header.html' %}
+{% include 'about_me.html' %}
+{% include 'projects.html' %}
+
+{% endblock %}
+ 
